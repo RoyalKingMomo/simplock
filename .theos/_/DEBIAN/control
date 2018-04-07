@@ -1,0 +1,10 @@
+Package: me.enggmomo.simplock
+Name: simplock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Mohammad Al-Ahdal
+Author: Mohammad Al-Ahdal
+Section: Tweaks
+Version: 0.0.1-9+debug
+Installed-Size: 120
